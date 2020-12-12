@@ -22,7 +22,3 @@ scoreboard objectives add diasT dummy
 
 scoreboard objectives add tiempoJuego trigger
 
-function contador:opciones/display
-
-function contador:opciones/programado
-
